@@ -1,0 +1,12 @@
+# Ignore specific directories
+.Cyclone_titli/
+.DemoCSV/
+.raster/
+.vector/
+
+# Ignore IDE-specific files (for JetBrains, VS Code, etc.)
+.idea/
+.vscode/
+
+# Ignore log files
+*.log
